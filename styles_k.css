@@ -1,0 +1,37 @@
+.main-body{
+   height:1000px;
+   
+
+   
+}
+.main-div{
+    height: 1000px;
+    background-size: cover;
+    background-position: center;
+    background-image: url("https://freedesignfile.com/upload/2016/10/Strong-muscular-bodybuilder-doing-exercise-with-dumbbell-in-the-gym.jpg");
+    background-repeat: no-repeat;
+}
+
+.navbar{
+    background-color:lightskyblue;
+}
+.input{
+    width: 20%;
+}
+.inside{
+
+}
+#navbarBasicExample1{
+    margin-left: 900px;
+}
+#title{
+    font-size: xx-large;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+    text-shadow: black;
+    text-decoration: solid;
+    color: yellowgreen;
+    text-decoration-color: aqua;
+    
+}
+
